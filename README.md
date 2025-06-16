@@ -10,7 +10,6 @@
 - **Architecture:** Microservices  
 
 **<h2>🧩<u>Microservices Repositories</h2><u>**  
-🔗 [Eureka Server]->https://github.com/lalithadawale017/EurekaServer  
 🔗 [Eureka Server]->https://github.com/PrasadBhogade/EurekaServer  
 🔗 [FoodCatalogue-MICROSERVICE]->https://github.com/PrasadBhogade/FoodCatalogue-MS  
 🔗 [Order-Service-MS]->https://github.com/PrasadBhogade/Order-Service-MS  
