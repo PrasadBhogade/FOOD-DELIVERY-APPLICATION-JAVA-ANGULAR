@@ -11,10 +11,10 @@
 
 **<h2>🧩<u>Microservices Repositories</h2><u>**  
 🔗 [Eureka Server]->https://github.com/PrasadBhogade/EurekaServer  
-🔗 [FoodCatalogue-MS]->https://github.com/PrasadBhogade/FoodCatalogue-MS  
-🔗 [Order-Service-MS]->https://github.com/PrasadBhogade/Order-MS  
-🔗 [RestaurantListing-MS]->https://github.com/PrasadBhogade/RestaurentListing-MS  
-🔗 [UserInfo-MS]->https://github.com/PrasadBhogade/UserInfo-MS   
+🔗 [FoodCatalogue Microservice]->https://github.com/PrasadBhogade/FoodCatalogue-MS  
+🔗 [Order-Service Microservice]->https://github.com/PrasadBhogade/Order-MS  
+🔗 [RestaurantListing Microservice]->https://github.com/PrasadBhogade/RestaurentListing-MS  
+🔗 [UserInfo Microservice]->https://github.com/PrasadBhogade/UserInfo-MS   
 🌐 [Frontend (Angular 11)]->https://github.com/PrasadBhogade/Food_Delivery_App-FE
 
 
